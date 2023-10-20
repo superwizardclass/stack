@@ -5,6 +5,9 @@ module.exports = {
     "./src/**/*.{vue,js,ts,jsx,tsx}",
   ],
   theme: {
+    fontFamily: {
+      'permanent-marker': ['Permanent Marker', 'cursive']
+    },
     extend: {},
   },
   plugins: [],
